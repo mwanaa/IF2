@@ -1,0 +1,10 @@
+{
+    "name": "IF2",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "IF2.xml",
+    "author": "mwanaa",
+    "minimum_firmware_version": 42
+}
